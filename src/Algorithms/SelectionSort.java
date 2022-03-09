@@ -1,4 +1,9 @@
 package Algorithms;
+/*
+1. tag first value as minimum.
+2. compare minimum with every other element
+3. compare and sort
+ */
 
 import java.util.Arrays;
 
