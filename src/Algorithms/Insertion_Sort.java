@@ -24,9 +24,5 @@ public class Insertion_Sort {
             }
         }
         System.out.println(Arrays.toString(arr));
-        System.out.println("Key="+key);
-        System.out.println("placeholder="+placeholder);
-
-
     }
 }
